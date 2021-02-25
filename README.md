@@ -3,7 +3,7 @@
 Bem-vindos(as) ao meu GitHub!
 
 - 🎓 Estudante de Ciência da Computação na UNIFAVIP WYDEN.  
-- 📚 Aprimorando os conhecimentos sobre Front-end na [ORIGAMID](https://www.origamid.com/), [ROCKETSEAT](https://rocketseat.com.br/) e [COD3R](https://www.cod3r.com.br/).  
+- 📚 Aprimorando os conhecimentos sobre Front-end na [ORIGAMID](https://www.origamid.com/), [ROCKETSEAT](https://rocketseat.com.br/) e [COD3R](https://www.cod3r.com.br/).
 - 🎯 Foco em FRONT-END | Gestão de Equipe |  Gerenciamento de Projetos | Resolução de Problemas.
 - 🔎 Entre em contato através links abaixo:  
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudivan0103@gmail.com)
@@ -16,7 +16,8 @@ Essas são algumas das linguagens que já usei, nos ultimos meses tenho focado e
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c++&logoColor=3178c6)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c++&logoColor=blue)
 
 ### Tecnologias utilizadas
 
@@ -24,6 +25,7 @@ Confira abaixo as tecnologias mais utilizadas nos projetos aos quais tenho parti
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAFB)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-222222?style=flat&logo=spring&logoColor=green)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=violet)
 ![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=blue)
 
@@ -35,6 +37,7 @@ Essas são algumas das linguagens e tecnologias que desejo aprender:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=blue)
 ![Storybook](https://img.shields.io/badge/-Storybook-222222?style=flat&logo=Storybook&logoColor=E10098)
 
