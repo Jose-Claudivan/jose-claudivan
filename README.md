@@ -1,3 +1,5 @@
+![readme](https://user-images.githubusercontent.com/55210121/109203808-5bd46780-7783-11eb-82f3-86b2476d190d.png)
+
 ### Olá pessoal! 👋
 
 Bem-vindos(as) ao meu GitHub!
