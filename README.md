@@ -4,7 +4,9 @@
 
 Bem-vindos(as) ao meu GitHub!
 
-- 🎓 Estudante de Ciência da Computação na UNIFAVIP WYDEN.  
+- 📈 MBA em Segurança da Informação.
+- 📈 Pós graduado em Analise e Desenvolvimento de Progamas.
+- 🎓 Bacharel em Ciência da Computação na UNIFAVIP WYDEN.  
 - 📚 Aprimorando os conhecimentos sobre Front-end na [ORIGAMID](https://www.origamid.com/), [ROCKETSEAT](https://rocketseat.com.br/) e [COD3R](https://www.cod3r.com.br/).
 - 🎯 Foco em FRONT-END | Gestão de Equipe |  Gerenciamento de Projetos | Resolução de Problemas.
 - 🔎 Entre em contato através links abaixo:  
